@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": false, // 全局默认关闭不做格式化，仅针对 js 和 ts 格式化
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+  },
+}
